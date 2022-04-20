@@ -4,7 +4,7 @@ Para ejecutar el script simplemente debe:
 - abrir el menú inicio
 - pegar el comando indicado a continuación:
 
-`powershell iwr -useb http://bit.ly/scriptgeneral | iex
+`powershell iwr -useb https://raw.githubusercontent.com/ChrisTitusTech/win10script/master/win10debloat.ps1 | iex
 `
 
 - dar enter
