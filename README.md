@@ -4,7 +4,7 @@ Para ejecutar el script simplemente debe:
 - abrir el menú inicio
 - pegar el comando indicado a continuación:
 
-`powershell iwr -useb https://raw.githubusercontent.com/jeremiassamuelzitnik/Soporte/main/ScriptGeneral.ps1 | iex
+`powershell "iwr -useb https://raw.githubusercontent.com/jeremiassamuelzitnik/Soporte/main/ScriptGeneral.ps1 | iex"
 `
 
 - dar enter
